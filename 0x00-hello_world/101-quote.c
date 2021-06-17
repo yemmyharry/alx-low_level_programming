@@ -2,7 +2,7 @@
 
 /**
 * main - returns words with a write function instead of printf or puts
-*          
+*
 *
 * Return: in this case 1 instead of the usual 0.
 */
